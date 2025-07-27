@@ -6,4 +6,4 @@ class signupElements {
     phoneNumber = () => { return '#phone'} 
     emailAddress = () => { return '#user_email'} 
     password = () => { return '#password'} 
-} export default signupElements
+} export default signupElementsgit s

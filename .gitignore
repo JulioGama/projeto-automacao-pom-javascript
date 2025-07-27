@@ -1,0 +1,15 @@
+# Ignora a pasta node_modules
+node_modules/
+
+# Ignora arquivos sensíveis
+.env
+*.pem
+*.key
+*.ppk
+*.crt
+*.log
+
+# Ignora diretórios comuns de build
+dist/
+build/
+coverage/
